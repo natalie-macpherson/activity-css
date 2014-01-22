@@ -1,0 +1,38 @@
+html {
+    font-family: Areal, sans-serif;
+}
+
+body {
+    Background-color:#FFFFF5 
+}
+
+h1{
+    font-family:Gill Sans, sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #006699;
+}
+
+p {
+    font-size: 1rem;
+    line-height: 1.75rem'
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
+
+hr {
+    border: 2px solid #66CCFF
+}
+
+ul,
+ol {
+    border-top: 2px solid #66CCFF;
+    border-bottom: 2px solid #66CCFF;
+    background-color: #FFFFFF;
+}
