@@ -1,14 +1,14 @@
 html {
-    font-family: Areal, Helvetica sans-serif;
+    font-family: Areal, sans-serif;
 }
 
 body {
-    background-image: url('tree_bark.png');
+    Background-color:#FFFFF5;
     text-align:left;
 }
 
 h1{
-    font-family:"Gill Sans", Areal, Helvetica, sans-serif;
+    font-family:"Gill Sans", sans-serif;
     font-size: 2rem;
     text-align:center
     font-weight: bold;
@@ -17,7 +17,7 @@ h1{
 
 p {
     font-size: 1rem;
-    line-height: 1.50rem;
+    line-height: 1.50rem
 }
 
 strong {
@@ -29,7 +29,7 @@ em {
 }
 
 hr {
-    border: 2px solid #66CCFF;
+    border: 2px solid #66CCFF
 }
 
 ul,
@@ -37,10 +37,4 @@ ol {
     border-top: 2px solid #66CCFF;
     border-bottom: 2px solid #66CCFF;
     background-color: #FFFFFF;
-}
-
-IMG.bird_starling.jpg {
-    display: block;
-    margin-left: auto;
-    margin-right: auto 
 }
