@@ -3,13 +3,14 @@ html {
 }
 
 body {
-    Background-color:#FFFFF5;
+    background-image: url('tree_bark.png');
     text-align:left;
 }
 
 h1{
     font-family:"Gill Sans", Areal, Helvetica, sans-serif;
     font-size: 2rem;
+    text-align:center
     font-weight: bold;
     color: #006699;
 }
